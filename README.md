@@ -27,3 +27,5 @@ In addition to the built-in features Excel offers, I learned to use different fu
 
 > In this Course, Immersing myself in the business world, I delved into B2B sales data, unveiling hidden patterns, and gaining actionable insights that drive success. From mastering pivot tables to making informed predictions, this course empowered me to transform raw data into valuable business knowledge.
 Upon completion, I excelled in data analysis techniques and became adept at deriving actionable insights from my business data. Unleashing the power of data has propelled my career forward with Data Analysis.
+
+- ## Course 5: [Case Study: Analyzing Customer Churn in Excel](https://app.datacamp.com/learn/courses/case-study-analyzing-customer-churn-in-excel)
