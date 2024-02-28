@@ -22,3 +22,8 @@ In addition to the built-in features Excel offers, I learned to use different fu
 
 
 > In this course, Unlocking the power of data visualization with Excel was my ticket to becoming an independent data visualization wizard within a business analysis context. Whether I was a beginner or aiming to enhance my skills. I learned to tackle business challenges using a variety of visualizations, ranging from basic bar and line charts to more advanced scatter plots, bullet charts, and waterfalls. Visualizing insights on both summarized and disaggregated raw data (with PivotCharts) became second nature as I progressed through this course. Along the way, I mastered the best practices of data visualization and discovered how to harness visual design elements to maximize the impact of my data insights. Thanks to Excel, I brought life to visual insights!
+
+- ## Course 4: [Data Analysis in Excel](https://app.datacamp.com/learn/courses/data-analysis-in-excel)
+
+> In this Course, Immersing myself in the business world, I delved into B2B sales data, unveiling hidden patterns, and gaining actionable insights that drive success. From mastering pivot tables to making informed predictions, this course empowered me to transform raw data into valuable business knowledge.
+Upon completion, I excelled in data analysis techniques and became adept at deriving actionable insights from my business data. Unleashing the power of data has propelled my career forward with Data Analysis.
