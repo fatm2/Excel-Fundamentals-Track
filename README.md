@@ -7,7 +7,7 @@ This repository contains my projects for [Excel Fundamentals track](https://app.
 You’ll then take advanced skills one step further by utilizing powerful features such as the What-if tool for sensitivity and scenario analysis before dipping into predictive analysis with the power of Excel’s forecasting features. By the end of this track, you’ll have gained the knowledge and skills to carry out analysis in Excel on real-world scenarios.
 
 
-## Course  1: [Introduction to Excel]_(https://app.datacamp.com/learn/courses/introduction-to-excel.)
+## Course  1: [Introduction to Excel](https://app.datacamp.com/learn/courses/introduction-to-excel)
 
 
 > In this Excel course, I learned the fundamentals needed to analyze data in spreadsheets. This course focused on helping me navigate Excel and prepare my data for basic analysis. I learned how to manage tables and apply calculations to my data to provide new insights.
