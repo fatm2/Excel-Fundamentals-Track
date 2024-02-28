@@ -1,4 +1,4 @@
-# Excel-Fundamentals-Track
+# Excel Fundamentals Track
 
 ![201851795-145d07f8-217e-4ecd-938b-15305c30aea6](https://github.com/fatm2/Excel-Fundamentals-Track/assets/109034314/887e98b2-7b4d-44e0-bbeb-511b9719b2ec)
 
